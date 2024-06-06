@@ -1,0 +1,5 @@
+baseURL = 'https://zweerts.xyz/'
+languageCode = 'en-us'
+title = 'ZWEERTS.xyz'
+author = 'Koenraad'
+summaryLength = 20
