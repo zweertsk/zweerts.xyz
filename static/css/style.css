@@ -44,7 +44,7 @@ html {
 
 pre {
   padding: 1rem;
-  overflow-x: scroll;
+  overflow: auto;
 }
 
 code {

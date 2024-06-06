@@ -1,5 +1,5 @@
 +++
-title = 'Minimal set tions'
+title = 'Minimal Vim Options'
 date = 2024-06-06T20:47:18+02:00
 summary = 'Bare minimum list of options to add to a new vimrc file.'
 tags = ['vim']
