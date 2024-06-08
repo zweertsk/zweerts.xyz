@@ -14,8 +14,8 @@ filetype plugin indent on
 set cursorline
 set ruler
 set relativenumber
-set tabstop = 2
-set shiftwidth = 2
+set tabstop=2
+set shiftwidth=2
 set expandtab
 set wrap
 set noswapfile
@@ -24,6 +24,6 @@ set nohlsearch
 set incsearch
 set ignorecase
 set smartcase
-set scrolloff = 8
-set colorcolumn = 80
+set scrolloff=8
+set colorcolumn=80
 ```
